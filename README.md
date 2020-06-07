@@ -18,6 +18,6 @@ To run the testing suite, run `npm run test`. This project is in a completed sta
 
 ![Add Minion](/boss_machine_minions.png)
 
-![Add Work](/boss_machine_minon_work.png)
+![Add Work](/boss_machine_minion_work.png)
 
 ![Million Dollar Ideas](/boss_machine_million_dollar_ideas.png)
